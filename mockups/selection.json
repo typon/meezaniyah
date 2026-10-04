@@ -1,0 +1,15 @@
+{
+  "selected": "a",
+  "name": "Quiet Ledger",
+  "references": [
+    "images/a-transactions.png",
+    "images/a-sign-in.png"
+  ],
+  "status": "Approved by user. Stop further mockup generation.",
+  "implementation": {
+    "frontend": "SolidJS",
+    "charts": "Chart.js",
+    "database": "Cloudflare D1",
+    "hosting": "Cloudflare Workers free tier"
+  }
+}

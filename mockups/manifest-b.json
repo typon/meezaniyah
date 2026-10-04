@@ -1,0 +1,93 @@
+{
+  "direction": "b",
+  "name": "Midnight Signal",
+  "mode": "built-in image_gen",
+  "promptSet": "mockups/prompts.json",
+  "images": [
+    {
+      "page": "sign-in",
+      "source": "/Users/typon/.codex/generated_images/01a10782-f3b5-7990-87e6-936a49893d94/exec-08a0d927-236b-4605-8067-de3fcfb44cf9.png",
+      "path": "/Users/typon/gitz/meezaniyah/mockups/images/b-sign-in.png",
+      "status": "complete",
+      "inspected": true,
+      "width": 1513,
+      "height": 1040,
+      "bytes": 1288081
+    },
+    {
+      "page": "overview",
+      "source": "/Users/typon/.codex/generated_images/01a10782-f3b5-7990-87e6-936a49893d94/exec-8755ce3d-613f-4735-a841-7f973db56c8f.png",
+      "path": "/Users/typon/gitz/meezaniyah/mockups/images/b-overview.png",
+      "status": "complete",
+      "inspected": true,
+      "width": 1513,
+      "height": 1039,
+      "bytes": 1360479
+    },
+    {
+      "page": "transactions",
+      "source": "/Users/typon/.codex/generated_images/01a10782-f3b5-7990-87e6-936a49893d94/exec-056896a6-e045-49b4-aeb5-76b511969c48.png",
+      "path": "/Users/typon/gitz/meezaniyah/mockups/images/b-transactions.png",
+      "status": "complete",
+      "inspected": true,
+      "width": 1513,
+      "height": 1039,
+      "bytes": 1310845
+    },
+    {
+      "page": "accounts",
+      "source": "/Users/typon/.codex/generated_images/01a10782-f3b5-7990-87e6-936a49893d94/exec-627a1935-a091-4df3-8b6d-57bd85c2db1b.png",
+      "path": "/Users/typon/gitz/meezaniyah/mockups/images/b-accounts.png",
+      "status": "complete",
+      "inspected": true,
+      "width": 1513,
+      "height": 1040,
+      "bytes": 1260522
+    },
+    {
+      "page": "budget",
+      "source": "/Users/typon/.codex/generated_images/01a10782-f3b5-7990-87e6-936a49893d94/exec-a4a8556f-c785-412f-874f-f255627259ff.png",
+      "path": "/Users/typon/gitz/meezaniyah/mockups/images/b-budget.png",
+      "status": "complete",
+      "inspected": true,
+      "width": 1513,
+      "height": 1039,
+      "bytes": 1326316
+    },
+    {
+      "page": "insights",
+      "source": "/Users/typon/.codex/generated_images/01a10782-f3b5-7990-87e6-936a49893d94/exec-cf08c8b6-1a5e-4153-ac3c-bd1ecb525ed4.png",
+      "path": "/Users/typon/gitz/meezaniyah/mockups/images/b-insights.png",
+      "status": "complete",
+      "inspected": true,
+      "width": 1513,
+      "height": 1040,
+      "bytes": 1286937
+    },
+    {
+      "page": "recurring",
+      "source": "/Users/typon/.codex/generated_images/01a10782-f3b5-7990-87e6-936a49893d94/exec-8cbe1e25-747e-4dd8-9253-bf2ada02b3ce.png",
+      "path": "/Users/typon/gitz/meezaniyah/mockups/images/b-recurring.png",
+      "status": "complete",
+      "inspected": true,
+      "width": 1513,
+      "height": 1039,
+      "bytes": 1349832
+    },
+    {
+      "page": "settings",
+      "source": "/Users/typon/.codex/generated_images/01a10782-f3b5-7990-87e6-936a49893d94/exec-470559a4-147f-4bf8-a943-b7b6636cdfb4.png",
+      "path": "/Users/typon/gitz/meezaniyah/mockups/images/b-settings.png",
+      "status": "complete",
+      "inspected": true,
+      "width": 1513,
+      "height": 1040,
+      "bytes": 1295540
+    }
+  ],
+  "reviewNotes": [
+    "All eight outputs visually inspected; consistent navy/slate with mint and cyan controls and charts.",
+    "No source credentials or real financial data used; all supplied content fictional.",
+    "Generated concept text has minor variations: recurring date column reads 2024 instead of intended 2026; insights net-worth chart uses a different fictional endpoint. These are raster design explorations, not implemented product claims."
+  ]
+}
